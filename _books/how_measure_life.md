@@ -1,0 +1,17 @@
+---
+layout: book-review
+title: How Will You Measure Your Life?
+author: Clayton M. Christensen
+cover:
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 0062102427 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: technical
+tags:
+buy_link:
+started: 
+finished: 2025-02-01
+released:
+stars: 4
+goodreads_review:
+status:
+---
