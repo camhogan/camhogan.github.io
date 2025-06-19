@@ -408,6 +408,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dive_into_DL/";
+            },},{id: "books-options-futures-and-other-derivatives",
+          title: 'Options, Futures and Other Derivatives',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/options_futures/";
             },},{id: "books-statistical-foundations-of-data-science",
           title: 'Statistical Foundations of Data Science',
           description: "",
