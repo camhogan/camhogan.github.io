@@ -398,6 +398,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/applied_predctive_modelling/";
+            },},{id: "books-dive-into-deep-learning",
+          title: 'Dive into Deep learning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dive_into_DL/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/elements_statistical_learning/";
+            },},{id: "books-statistical-foundations-of-data-science",
+          title: 'Statistical Foundations of Data Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/statistical_foundations_DS/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
