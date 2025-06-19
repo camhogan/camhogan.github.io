@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-applied-predictive-modelling",
+      },{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ESL/";
+            },},{id: "books-applied-predictive-modelling",
           title: 'Applied Predictive Modelling',
           description: "",
           section: "Books",handler: () => {
@@ -403,11 +408,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dive_into_DL/";
-            },},{id: "books-",
-          title: '',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/elements_statistical_learning/";
             },},{id: "books-statistical-foundations-of-data-science",
           title: 'Statistical Foundations of Data Science',
           description: "",
