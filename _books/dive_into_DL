@@ -1,0 +1,17 @@
+---
+layout: book-review
+title: Dive Into Deep Learning
+author: Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
+cover:
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 1009389432 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: technical
+tags:
+buy_link:
+started: 
+finished: 2025-01-01
+released: 
+stars: 4
+goodreads_review:
+status: Finished
+---
