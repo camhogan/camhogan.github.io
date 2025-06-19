@@ -8,7 +8,7 @@ layout: page
   {% if collection and collection.size > 0 %}
     {% assign year = '' %}
     {% for item in collection reversed %}
-      {% assign current_year = item.finished | date: '%Y' %}
+      {% assign current_year = item.finished | date: '%Y' | default: item.started | date: '%Y' | default: item.date | date: '%Y' %}
       {% if current_year != year %}
         {% unless forloop.first %}
           </ul>
