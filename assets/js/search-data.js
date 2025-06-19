@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-applied-predictive-modelling",
+          title: 'Applied Predictive Modelling',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/applied_predctive_modelling/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
