@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+title: The Elements of Statistical Learning
 author: by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 cover:
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
