@@ -408,6 +408,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dive_into_DL/";
+            },},{id: "books-how-will-you-measure-your-life",
+          title: 'How Will You Measure Your Life?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/how_measure_life/";
             },},{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",
