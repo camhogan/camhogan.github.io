@@ -29,6 +29,8 @@ latest_posts:
 
 I'm a third year PhD student in the Department of Statistics and Data Science at Cornell. I'm fortunate to be advised by the great Marty Wells, with Sumanta Basu and Deborah Estrin on my committee as well. My research is in multimodal machine learning and quantum geometry.
 
+Before coming to Cornell, I studied math at BYU, and worked with Nancy Fulda on machine translation for low resource languages.
+
 In summer 2025 I'll be joining the Quantitative Analytics group at Barclays. [Download my CV (PDF)](assets/pdf/Resume- Cameron Hogan.pdf).
 
 
