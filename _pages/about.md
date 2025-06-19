@@ -31,7 +31,7 @@ I'm a third year PhD student in the Department of Statistics and Data Science at
 
 Before coming to Cornell, I studied math at BYU, and worked with Nancy Fulda on machine translation for low resource languages.
 
-In summer 2025 I'll be joining the Quantitative Analytics group at Barclays Investment Bank in NYC. [Download my CV (PDF)](assets/pdf/Resume- Cameron Hogan.pdf).
+In summer 2025 I'll be joining the Quantitative Analytics group at Barclays Investment Bank in NYC. [Download my Resume (PDF)](assets/pdf/Resume- Cameron Hogan.pdf).
 
 
 
