@@ -8,7 +8,7 @@ isbn: 1009389432 # use ISBN to fetch cover (if no `olid` is provided, dashes are
 categories: classics crime historical-fiction mystery novels thriller
 tags: 
 buy_link: 
-started: 
+started: 2024-01-01
 finished: 2024-01-01
 released: 1969
 stars: 4
