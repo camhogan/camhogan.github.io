@@ -413,6 +413,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/how_measure_life/";
+            },},{id: "books-make-it-stick",
+          title: 'Make It Stick',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/make_it_stick/";
             },},{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",
