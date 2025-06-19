@@ -13,5 +13,5 @@ finished: 2024-01-01
 released: 
 stars: 3
 goodreads_review:
-status: Finished
+status:
 ---
