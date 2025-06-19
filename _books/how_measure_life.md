@@ -9,7 +9,7 @@ categories: technical
 tags:
 buy_link:
 started: 
-finished: 2025-02-01
+finished: 2025-01-01
 released:
 stars: 4
 goodreads_review:
