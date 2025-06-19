@@ -423,6 +423,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/options_futures/";
+            },},{id: "books-so-good-they-can-39-t-ignore-you",
+          title: 'So Good They Can&amp;#39;t Ignore You',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/so_good_ignore/";
             },},{id: "books-statistical-foundations-of-data-science",
           title: 'Statistical Foundations of Data Science',
           description: "",
