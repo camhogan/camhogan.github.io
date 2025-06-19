@@ -393,8 +393,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-the-elements-of-statistical-learning",
+          title: 'The Elements of Statistical Learning',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ESL/";
