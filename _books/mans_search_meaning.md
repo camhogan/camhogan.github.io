@@ -13,5 +13,4 @@ finished: 2025-06-01
 released: 2013
 stars: 5
 goodreads_review:
-status:
 ---
