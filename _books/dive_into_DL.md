@@ -13,6 +13,6 @@ finished: 2024-01-01
 released: 1969
 stars: 4
 goodreads_review: 
-status: Finished
+status:
 ---
 
