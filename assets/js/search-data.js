@@ -408,6 +408,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dive_into_DL/";
+            },},{id: "books-man-39-s-search-for-meaning",
+          title: 'Man&amp;#39;s Search for Meaning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mans_search_meaning/";
             },},{id: "books-options-futures-and-other-derivatives",
           title: 'Options, Futures and Other Derivatives',
           description: "",
