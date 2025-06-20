@@ -15,4 +15,4 @@ stars: 5
 goodreads_review:
 ---
 
-One of the best books I've read in a long time. Highly reccomend. It's also a quick read.
+One of the best books I've read in a long time. Highly recommend. It's also a quick read.
