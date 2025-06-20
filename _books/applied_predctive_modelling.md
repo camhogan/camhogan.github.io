@@ -15,3 +15,5 @@ stars: 4
 goodreads_review:
 status:
 ---
+
+Very clear intuition given. Especially loved the sections on tree-based methods. Have referenced it several times since finishing.
