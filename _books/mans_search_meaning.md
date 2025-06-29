@@ -9,7 +9,7 @@ categories:
 tags:
 buy_link:
 started: 
-finished: 2025-01-01
+finished: 2025-05-05
 released: 2013
 stars: 5
 goodreads_review:
