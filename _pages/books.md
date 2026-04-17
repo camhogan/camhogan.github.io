@@ -8,4 +8,3 @@ collection: books
 ---
 
 > Some of my latest reads, both technical and non-technical
->

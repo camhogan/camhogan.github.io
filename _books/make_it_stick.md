@@ -8,7 +8,7 @@ isbn: 0674729013 # use ISBN to fetch cover (if no `olid` is provided, dashes are
 categories:
 tags:
 buy_link:
-started: 
+started:
 finished: 2025-04-05
 released:
 stars: 5

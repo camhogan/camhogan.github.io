@@ -4,8 +4,8 @@ layout: page
 {{ content }}
 
 {% if page.collection and page.collection.size > 0 %}
-  {% assign collection = site[page.collection] | sort: "finished" | reverse %}
-  {% assign current_year = "" %}
+  {% assign collection = site[page.collection] | sort: 'finished' | reverse %}
+  {% assign current_year = '' %}
 
   {% if collection and collection.size > 0 %}
     {% for item in collection %}
@@ -19,7 +19,7 @@ layout: page
           <a href="{{ item_year | prepend: '/books/' | relative_url }}">{{ item_year }}</a>
         </h1>
         <ul>
-        {% assign current_year = item_year %}
+          {% assign current_year = item_year %}
       {% endif %}
 
       <figure class="cover">
