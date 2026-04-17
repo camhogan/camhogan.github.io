@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third year PhD student in the Department of Statistics and Data Science at Cornell. I'm fortunate to be advised by the great Marty Wells, with Sumanta Basu and Deborah Estrin on my committee as well. My research is in multimodal machine learning and quantum geometry.
+I'm a third year PhD student in the Department of Statistics and Data Science at Cornell. I'm fortunate to be advised by the great Marty Wells, with Sumanta Basu and Deborah Estrin on my committee as well. My research is currently focused on machine learning and stochastic optimization in non-stationary environments.
 
 Before coming to Cornell, I studied math at BYU, and worked with Nancy Fulda on machine translation for low resource languages.
 
-In summer 2025 I'll be joining the Quantitative Analytics group at Barclays Investment Bank in NYC. [Download my Resume (PDF)](assets/pdf/Resume- Cameron Hogan.pdf).
+I spent summer 2025 in the QA (Quantitative Analytics) group at Barclays Investment Bank in NYC. [Download my Resume (PDF)](assets/pdf/Resume- Cameron Hogan.pdf).
 
 
 
