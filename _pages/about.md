@@ -31,4 +31,4 @@ I'm a fourth year PhD student in the Department of Statistics and Data Science a
 
 Before coming to Cornell, I studied math at BYU, and worked with Nancy Fulda on machine translation for low resource languages.
 
-I spent summer 2025 in the QA (Quantitative Analytics) group at Barclays Investment Bank in NYC. I will be spending winter 2027 at Blackrock Systematic in San Fransisco, and summer 2027 at SCM (Stevens Capital Management) in Radnor, PA. [Download my Resume (PDF)](assets/pdf/Resume-Cameron-Hogan.pdf).
+I spent summer 2025 in the QA (Quantitative Analytics) group at Barclays Investment Bank in NYC. I will be spending winter 2027 at Blackrock Systematic in San Fransisco, and summer 2027 at SCM (Stevens Capital Management) in Radnor, PA. [Download my Resume (PDF)](https://camhogan.github.io/assets/pdf/Resume-Cameron-Hogan.pdf).
